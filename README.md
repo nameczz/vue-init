@@ -1,5 +1,4 @@
-## vue 初始化模板
-    ├── .babelrc   //babel配置
+    ├── .babelrc   //babel配置
     ├── .editorconfig
     ├── .gitignore
     ├── .postcssrc.js
